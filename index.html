@@ -9,7 +9,7 @@
 <body>
   <table cellspacing="20">
     <tr>
-      <td><img src="diontre.jpg" alt="Diontre's Profile Picture"></td>
+      <td><img src="Diontre.jpg" alt="Diontre's Profile Picture"></td>
       <td><h1>Diontre Taylor</h1>
       <p><em>Future Engineer and CEO of <strong><a href="https://about.google/google-in-america/">Company One</a></strong></em></p>
       <p>I am a young entreprenuer who has prior military experience and probably
